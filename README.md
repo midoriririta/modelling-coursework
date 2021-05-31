@@ -16,7 +16,9 @@
 
 
 		2.1 Run 1_process.py
-		2.2 Run 2_cutsentence.py
+		2.2 Run 2_cutsentence.py 
+		The txt file needs to be manually converted to UDF-8 format before executing the code, 
+		otherwise it will report Chinese encoding error
 		2.3 Run 3_stopword.py
 		2.4 Run 4_getwordvecs.py
 		2.5 Run 5_pca_svm.py
