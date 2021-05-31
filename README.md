@@ -25,4 +25,4 @@
 
 
 
-		This code is improved and implemented based on the code at https://github.com/AimeeLee77/senti_analysis.
+		This code is improved and implemented based on https://www.jianshu.com/p/ec27062bd453 and https://www.jianshu.com/p/233da896226a
