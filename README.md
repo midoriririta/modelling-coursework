@@ -1,6 +1,6 @@
 # modelling-coursework
 
-####Step 1: Train word vector model
+#### Step 1: Train word vector model
 
 		1.1 Download the Wiki data from https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2j
 		
@@ -12,7 +12,7 @@
 		1.4 Run TrainModel_2_jieba_participle.py directly
 		1.5 Run TrainModel_3_train_word2vec_model.py directly
 		1.6 Run TrainModel_4_model_match.py directly
-####Step 2:
+#### Step 2:
 
 
 		2.1 Run 1_process.py
@@ -21,7 +21,7 @@
 		2.4 Run 4_getwordvecs.py
 		2.5 Run 5_pca_svm.py
 
-#####Reference:
+##### Reference:
 
 
 
