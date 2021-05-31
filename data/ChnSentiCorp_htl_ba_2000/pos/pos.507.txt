@@ -1,0 +1,1 @@
+touch里还自动保存着cabare的wifi密码!!
