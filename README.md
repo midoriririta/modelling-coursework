@@ -28,3 +28,4 @@
 
 
 		This code is improved and implemented based on https://www.jianshu.com/p/ec27062bd453 and https://www.jianshu.com/p/233da896226a
+		The original posts are about sentiment analysis for hotel review. And my report is about depression detect on social media
